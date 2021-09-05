@@ -6,7 +6,7 @@
 ## I'm a Web Developer!!
 - I am work freelance and local jobs,
 - 🔭 My running project is multi-vendor and multi-product E-commerce App: [Multi-Vendor Ecommerce][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning golang and it's frameworks 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
