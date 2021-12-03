@@ -21,10 +21,10 @@
 
 <br />
 
-### small code snippet
+### small code snippet and project
 https://codepen.io/rasel1
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-
+[<img align="left" alt="CODEPEN" width="26px" src="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" />][webdevplaylist]
+<br />
 
 ### Languages and Tools:
 
