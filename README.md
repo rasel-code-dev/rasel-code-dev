@@ -77,9 +77,9 @@ https://codepen.io/rasel1
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6123](https://github.com/vitejs/vite/issues/6123) in [vitejs/vite](https://github.com/vitejs/vite)
-2. ❗️ Closed issue [#2](https://github.com/RaseL/portfolio-sass/issues/2) in [RaseL/portfolio-sass](https://github.com/RaseL/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/RaseL/free-developer-resources/pull/11) in [RaseL/free-developer-resources](https://github.com/RaseL/free-developer-resources)
+1. 🗣 Commented on [#833](https://github.com/gregberge/loadable-components/issues/833) in [gregberge/loadable-components](https://github.com/gregberge/loadable-components)
+2. ❗️ Opened issue [#1](https://github.com/zackify/moovite/issues/1) in [zackify/moovite](https://github.com/zackify/moovite)
+3. ❗️ Opened issue [#6123](https://github.com/vitejs/vite/issues/6123) in [vitejs/vite](https://github.com/vitejs/vite)
 4. 🗣 Commented on [#11](https://github.com/RaseL/free-developer-resources/issues/11) in [RaseL/free-developer-resources](https://github.com/RaseL/free-developer-resources)
 5. 🎉 Merged PR [#10](https://github.com/RaseL/free-developer-resources/pull/10) in [RaseL/free-developer-resources](https://github.com/RaseL/free-developer-resources)
 <!--END_SECTION:activity-->
